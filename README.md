@@ -128,4 +128,3 @@ Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir issues ou
 ---
 
 Desenvolvido com ❤️ para facilitar o acompanhamento de notícias sobre FIIs
-
